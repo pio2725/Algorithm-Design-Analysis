@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7078255b-fcaa-4422-92f7-5b6548b21a66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lab2 Convex Hull" />
+  </component>
+  <component name="ProjectId" id="1X3O8Yh6FblftevDbfzR4OJdse9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proj3-network-routing" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Proj2GUI">
+    <configuration name="Proj2GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab2 Convex Hull" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj2-convex-hull" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj2-convex-hull/Proj2GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab2 Convex Hull" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Practice/python_work" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Practice/python_work/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Proj2GUI" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7078255b-fcaa-4422-92f7-5b6548b21a66" name="Default Changelist" comment="" />
+      <created>1580271152870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580271152870</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="238" key="FileChooserDialogImpl" timestamp="1582424981873">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="533" y="238" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1582424981873" />
+    <state width="1483" height="80" key="GridCell.Tab.0.bottom" timestamp="1581292295328">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="80" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1581292295328" />
+    <state width="1483" height="80" key="GridCell.Tab.0.center" timestamp="1581292295328">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="80" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1581292295328" />
+    <state width="1483" height="80" key="GridCell.Tab.0.left" timestamp="1581292295328">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="80" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1581292295328" />
+    <state width="1483" height="80" key="GridCell.Tab.0.right" timestamp="1581292295328">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="80" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1581292295328" />
+    <state x="254" y="125" key="SettingsEditor" timestamp="1581202429122">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="254" y="125" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1581202429122" />
+    <state x="449" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1582424964111">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="449" y="307" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1582424964111" />
+  </component>
+</project>
